@@ -1,0 +1,8 @@
+convert decimal to binary
+http://localhost:3000/decimaltobinary?type=numeric&value=13
+
+convert binary to decimal
+http://localhost:3000/binarytodecimal?type=binary&value=10011
+
+JWT
+http://localhost:3000/jwt
